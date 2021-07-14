@@ -34,7 +34,7 @@ export default class Proflie extends Component{
                                 source={{ uri: 'https://www.w3schools.com/css/paris.jpg' }}
                                 
                             >
-                                <Icon name='camera' size={30} style={{padding:30}}/>
+                                <Icon name='camera' size={30} style={{padding:30 }}/>
                
                             </ImageBackground>
                         </TouchableOpacity>
